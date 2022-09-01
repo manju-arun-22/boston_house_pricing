@@ -1,5 +1,5 @@
 ### boston_house_pricing
-Data Science sample project for boston house pricing. The dataset has been taken from sklear.datasets
+Data Science sample project for boston house pricing. The dataset has been taken from sklearn.datasets
 
 ### Softwares and Tools Requirements
 1. [Github Account]("https://github.com")
